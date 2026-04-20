@@ -62,7 +62,7 @@ Open `package.json` and update the `scripts` section:
 ## 5. Run Backend Server
 
 ```bash id="h2q9ls"
-npm run devv
+npm run dev
 ```
 
 ---
@@ -84,4 +84,4 @@ npx nodemon index.js
 * Initialize project using `npm init -y`
 * Install nodemon
 * Add script in `package.json`
-* Run using `npm run devv`
+* Run using `npm run dev`
